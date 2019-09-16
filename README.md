@@ -10,9 +10,9 @@ It does this by changing your JAVA_HOME system variable.
 
 
 
-**If you dont know what your doing please to not attempt to mess with the code of this batch file as it can mess up your system variables and possibly damage your computer.
+**If you dont know what your doing please to not attempt to mess with the code of this batch file as it can mess up your system variables and possibly damage your computer.**
 
-**By downloading this batch file you agree that i will not be held liable for any damages. 
+**By downloading this batch file you agree that i will not be held liable for any damages.** 
 
 
 
