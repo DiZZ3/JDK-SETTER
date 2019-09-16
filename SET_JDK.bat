@@ -39,7 +39,8 @@ goto byebye
 :: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-echo | set /p dummy="Reading environment variables from registry. Please wait... "
+
+
 
 goto main
 
@@ -82,7 +83,7 @@ goto main
     :: Set these variables
     call "%TEMP%\_env.cmd"
 
-    echo | set /p dummy="Done"
+
      
 echo.
 java -version
