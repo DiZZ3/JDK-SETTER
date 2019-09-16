@@ -5,14 +5,14 @@ It does this by changing your JAVA_HOME system variable.
 
 
 
-Make sure to follow this tutorial if you have not already created your JAVA_HOME.
-https://javatutorial.net/set-java-home-windows-10
+## Make sure to follow this tutorial if you have not already created your JAVA_HOME.
+## https://javatutorial.net/set-java-home-windows-10
 
 
 
-If you dont know what your doing please to not attempt to mess with the code of this batch file as it can mess up your system variables and possibly damage your computer.
+**If you dont know what your doing please to not attempt to mess with the code of this batch file as it can mess up your system variables and possibly damage your computer.
 
-By downloading this batch file you agree that i will not be held liable for any damages. 
+**By downloading this batch file you agree that i will not be held liable for any damages. 
 
 
 
