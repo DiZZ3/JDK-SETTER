@@ -13,9 +13,7 @@ It does this by changing your JAVA_HOME system variable.
 ### [Follow this guide to add/remove Java versions to the batch file](https://www.youtube.com/watch?v=7b89YZv97sE)
 
 
-I will be posting a video soon on how to expand the batch file to allow the choice of other versions of java.
-Also, might implement some auto detection when it comes to java versions and add UI so that noobs can use it as well.
-
+Might implement some auto detection when it comes to java versions and add UI so that noobs can use it as well. we will see.
 
 
 FAQ:
