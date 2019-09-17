@@ -10,7 +10,7 @@ It does this by changing your JAVA_HOME system variable.
 
 
 
-### [Follow this guide to add/remove Java versions to the batch file]
+### [Follow this guide to add/remove Java versions to the batch file](https://www.youtube.com/watch?v=7b89YZv97sE)
 
 
 
