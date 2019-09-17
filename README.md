@@ -22,7 +22,7 @@ Also, might implement some auto detection when it comes to java versions and add
 
 
 FAQ:
-I need some information to help fix the problems you are having so please give me this information when posting and issue. 
+I need some information to help fix any problem you are having:
 
 1:Open up command prompt and type in: systeminfo
 Copy the output it gives and paste it into the issues section above.
