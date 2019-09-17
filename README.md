@@ -5,8 +5,8 @@ It does this by changing your JAVA_HOME system variable.
 
 
 
-## Make sure to follow this tutorial if you have not already created your JAVA_HOME.
-## https://javatutorial.net/set-java-home-windows-10
+## [Make sure to follow this tutorial if you have not already created your JAVA_HOME.](https://javatutorial.net/set-java-home-windows-1)
+
 
 
 
